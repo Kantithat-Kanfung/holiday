@@ -10,7 +10,7 @@
 <body>
     <script>
         var settings = {
-          "url": "https://www.googleapis.com/calendar/v3/calendars/th.th%23holiday%40group.v.calendar.google.com/events?key=AIzaSyB2bpjAXTEdsBC4_Xq8j8I11kUglw2WdIE",
+          "url": "https://www.googleapis.com/calendar/v3/calendars/th.th%23holiday%40group.v.calendar.google.com/events?key=",
           "method": "GET",
           "timeout": 0,
         };
